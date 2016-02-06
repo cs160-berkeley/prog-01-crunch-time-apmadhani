@@ -7,7 +7,7 @@ Akshay Madhani ([akshaymadhani@berkeley.edu](mailto:akshaymadhani@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://youtu.be/i7KZ4APE6zY)
+See the demo (https://youtu.be/i7KZ4APE6zY)
 
 ## Screenshots
 
